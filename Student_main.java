@@ -11,10 +11,5 @@ public class Student_main {
         obj_student.setCity("Surat");
 
         System.out.println(obj_student.getName());
-        // obj_student.getContact();
-        // obj_student.getEmail();
-        // obj_student.getCity();
-
-
     }
 }
